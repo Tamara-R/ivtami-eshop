@@ -1,7 +1,7 @@
 {
   "name": "eshop",
   "version": "1.0.0",
-  "description": "watches eshop",
+  "description": "ivtami watches eshop",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -9,7 +9,7 @@
     "prod": "SET NODE_ENV=PRODUCTION& nodemon server",
     "seeder": "node utils/seeder.js"
   },
-  "author": "Tamara Ranisavljevic",
+  "author": "Tamara Ranisavljevic Mirko Velickovic",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
