@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const url = "mongodb+srv://admin_ivtami:pehblenda.106@cluster0.t3ado.mongodb.net/ivtami?retryWrites=true&w=majority"
+const url = "";
 const connectDatabase = () => {
 	mongoose
 		.connect(url, {
