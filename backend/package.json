@@ -9,7 +9,7 @@
     "prod": "SET NODE_ENV=PRODUCTION& nodemon server",
     "seeder": "node utils/seeder.js"
   },
-  "author": "Tamara Ranisavljevic Mirko Velickovic",
+  "author": "Tamara Ranisavljevic Ivan Suster Mirko Velickovic",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
